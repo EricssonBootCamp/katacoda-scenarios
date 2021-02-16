@@ -7,14 +7,12 @@
     "steps": [
       {
         "title": "Step 1",
-        "courseData": "step1-result.sh",
-        "code": "foreground.sh",
+        "code": "step1-result.sh",
         "text": "step1.md"
       },
       {
          "title": "Step 2",
-         "courseData": "step2-result.sh",
-         "code": "foreground.sh",
+         "code": "step2-result.sh",
          "text": "step2.md"
       },
       {
