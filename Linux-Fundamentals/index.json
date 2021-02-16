@@ -7,16 +7,16 @@
     "steps": [
       {
         "title": "Step 1",
-        "code": "step1-result.sh",
         "text": "step1.md"
       },
       {
          "title": "Step 2",
-         "code": "step2-result.sh",
+         "code": "step1-result.sh",
          "text": "step2.md"
       },
       {
         "title": "Step 3",
+        "code": "step2-result.sh",
         "text": "step3.md"
       },
       {
