@@ -1,11 +1,11 @@
 {
-  "title": "Linux Fundamental",
+  "title": "Linux Fundamentals",
   "description": "Learn Linux Fundamentals",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "assets": {
-      "host01": [
+      "client": [
           {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
       ]
       },
