@@ -4,7 +4,7 @@
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
-    "assets": { 
+    "assets": {
       "host01": [
           {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
       ]
