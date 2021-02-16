@@ -1,2 +1,2 @@
-# List Files & Directories
-`ls -lrth`{{execute}}
+# Test File Creation
+`./CheckResult.sh 1`{{execute}}
