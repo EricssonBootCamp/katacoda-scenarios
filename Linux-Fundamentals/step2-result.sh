@@ -10,3 +10,4 @@ fi
 else
 echo -e "\n\n\n\t\t\t\tTest Case#2 Failed" >> $result
 fi
+sleep 5
