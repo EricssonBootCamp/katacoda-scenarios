@@ -1,3 +1,2 @@
 # Check File System
-
-`./CheckResult.sh 2`{{execute}}
+1. Create a file "test.txt" with content "This is Awesome." in it.
