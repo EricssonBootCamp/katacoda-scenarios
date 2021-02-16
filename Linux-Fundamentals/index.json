@@ -11,11 +11,9 @@
         "text": "step1.md"
       },
       {
-        {
          "title": "Step 2",
          "courseData": "step2-result.sh",
          "text": "step2.md"
-      }
       },
       {
         "title": "Step 3",
