@@ -1,3 +1,3 @@
 # Check File System
 
-df -kh {{execute}}
+`df -kh`{{execute}}
