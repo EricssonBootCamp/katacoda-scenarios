@@ -1,3 +1,4 @@
+#!/bin/bash
 clear
 if [ -s "test.txt" ]; then
 if [ `cat test.txt` == "This is Awesome." ]; then
