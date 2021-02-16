@@ -1,2 +1,2 @@
 # List Files & Directories
-'ls -lrth'{{execute}}
+`ls -lrth`{{execute}}
