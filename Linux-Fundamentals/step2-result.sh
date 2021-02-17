@@ -10,3 +10,7 @@ fi
 else
 echo -e "\n\n\n\t\t\t\tScenario#2 Failed" >> $result
 fi
+sleep 10
+echo "done" > /root/katacoda-background-finished
+sleep 10
+echo "done" > /root/katacoda-finished

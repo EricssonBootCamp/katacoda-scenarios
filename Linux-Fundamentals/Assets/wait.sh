@@ -1,5 +1,4 @@
 #!/bin/bash
-
 show_progress()
 {
   echo -n "Starting"
