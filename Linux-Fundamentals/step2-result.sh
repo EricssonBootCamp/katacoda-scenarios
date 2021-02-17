@@ -10,5 +10,3 @@ fi
 else
 echo -e "\n\n\n\t\t\t\tScenario#2 Failed" >> $result
 fi
-
-
