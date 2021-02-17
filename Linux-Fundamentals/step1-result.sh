@@ -6,7 +6,3 @@ echo -e "\n\n\n\t\t\t\tScenario#1 Passed Successfully" > $result
 else
 echo -e "\n\n\n\t\t\t\tScenario#1 Failed" > $result
 fi
-sleep 20
-echo "done" > /root/katacoda-background-finished
-sleep 20
-echo "done" > /root/katacoda-finished
