@@ -40,7 +40,7 @@
     },
     "assets": {
       "host01": [
-        {"file": "/katacoda-scenarios/Linux-Fundamentals/Assets/wait.sh", "target": "/var/tmp/", "chmod": "+x"}
+        {"file": "/ericssonbootcamp/katacoda-scenarios/Linux-Fundamentals/Assets/wait.sh", "target": "/var/tmp/", "chmod": "+x"}
       ]
     }
   },
