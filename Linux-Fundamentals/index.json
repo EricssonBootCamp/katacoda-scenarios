@@ -40,7 +40,7 @@
     },
     "assets": {
       "host01": [
-        {"file": "/User/eabhiku/katacode/linux-fundamentals/wait.sh", "target": "/var/tmp/", "chmod": "+x"}
+        {"file": "/Users/eabhiku/katacode/linux-fundamentals/wait.sh", "target": "/var/tmp/", "chmod": "+x"}
       ]
     }
   },
