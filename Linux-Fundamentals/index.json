@@ -40,7 +40,7 @@
     },
     "assets": {
       "host01": [
-        {"file": "wait.sh", "target": "/var/tmp/", "chmod": "+x"}
+        {"file": "/katacoda-scenarios/Linux-Fundamentals/Assets/wait.sh", "target": "/var/tmp/", "chmod": "+x"}
       ]
     }
   },
