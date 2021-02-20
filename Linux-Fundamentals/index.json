@@ -1,6 +1,6 @@
 {
   "title": "Linux Fundamentals",
-  "description": "Learn Linux Fundamentals-",
+  "description": "Learn Linux Fundamentals",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -39,7 +39,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "host": [
+      "client": [
         {"file": "wait.sh", "target": "/var/tmp/", "chmod": "+x"},
         {"file": "test.txt", "target": "/var/tmp/", "chmod": "+x"}
       ]
