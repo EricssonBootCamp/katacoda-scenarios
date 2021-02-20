@@ -7,7 +7,7 @@
     "assets": {
       "host01": [
         {
-          "file": "../Linux-Fundamentals/wait.sh",
+          "file": "C:/Users/eabhiku/katacode/Linux-Fundamentals/wait.sh",
           "target": "/root",
           "chmod": "+x"
         }
