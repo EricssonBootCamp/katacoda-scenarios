@@ -38,7 +38,7 @@
     "finish": {
       "text": "finish.md"
     },
-    "Assets": {
+    "assets": {
       "host01": [
         {"file": "wait.sh", "target": "/var/tmp/", "chmod": "+x"},
         {"file": "test.txt", "target": "/var/tmp/", "chmod": "+x"}
