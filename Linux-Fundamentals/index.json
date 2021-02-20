@@ -4,20 +4,6 @@
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
-    "assets": {
-      "host01": [
-        {
-          "file": "wait.sh",
-          "target": "/root",
-          "chmod": "+x"
-        },
-        {
-          "file": "background.sh",
-          "target": "/root",
-          "chmod": "+x"
-        }
-      ]
-    },
     "steps": [
       {
         "title": "Step 1",
@@ -51,6 +37,15 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "wait.sh",
+          "target": "/root",
+          "chmod": "+x"
+        }
+      ]
     }
   },
   "environment": {
