@@ -8,7 +8,7 @@
       "host01": [
         {
           "file": "wait.sh",
-          "target": "/root",
+          "target": "/usr/local/bin",
           "chmod": "+x"
         }
       ]
