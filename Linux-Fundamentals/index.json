@@ -6,19 +6,23 @@
   "details": {
     "assets": {
       "host01": [
-          {"file": "wait.sh", "target": "/root", "chmod": "+x"}
+        {
+          "file": "wait.sh",
+          "target": "/root",
+          "chmod": "+x"
+        }
       ]
-      },
+    },
     "steps": [
       {
         "title": "Step 1",
         "text": "step1.md"
       },
       {
-         "title": "Step 2",
-         "courseData": "step1-result.sh",
-         "code": "step1-fg.sh",
-         "text": "step2.md"
+        "title": "Step 2",
+        "courseData": "step1-result.sh",
+        "code": "step1-fg.sh",
+        "text": "step2.md"
       },
       {
         "title": "Step 3",
@@ -48,6 +52,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu1804"
+    "imageid": "centos7"
   }
 }
