@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /root
+
 show_progress()
 {
   echo -n "Starting"
@@ -14,7 +14,7 @@ show_progress()
       printf " [%c]  " "${spinstr}"
       spinstr=${temp}${spinstr%"${temp}"}
       sleep "${delay}"
-      printf "\b\b\b\b\b\b" 
+      printf "\b\b\b\b\b\b"
     else
       break
     fi
