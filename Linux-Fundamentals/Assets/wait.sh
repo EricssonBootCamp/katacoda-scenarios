@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /root
 show_progress()
 {
   echo -n "Starting"
