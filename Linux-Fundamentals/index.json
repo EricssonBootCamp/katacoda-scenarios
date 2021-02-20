@@ -40,7 +40,7 @@
     },
     "assets": {
       "host01": [
-        {"code": "assets/wait.sh", "target": "/var/tmp/", "chmod": "+x"}
+        {"files": "wait.sh", "target": "/var/tmp/", "chmod": "+x"}
       ]
     }
   },
